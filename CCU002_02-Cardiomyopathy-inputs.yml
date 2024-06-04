@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/other-ccu002_02-cardiomyopathy---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-cardiomyopathy---secondary.py
+inputModule4:
+  class: File
+  path: python/endomyocardial-ccu002_02-cardiomyopathy---secondary.py
+inputModule5:
+  class: File
+  path: python/severe-ccu002_02-cardiomyopathy---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-cardiomyopathy-dystrophy---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
